@@ -14,7 +14,7 @@ Keep in mind that you'll have to install [Flutter](https://flutter.dev/) first.
 | --- | --- | --- |
 | 1 | [Calculator App Design](https://github.com/HeySreelal/CalculatorUI) | A simple calculator app with a dark theme. |
 | 2 | [Balisia App](https://github.com/HeySreelal/balisia) | A beautiful & efficient trip / travel booking app! |
-| 4 | [Real Estate App](https://github.com/HeySreelal/VintageRealEstateUI) | Vintage Real Estate App, buy your dream home! |
+| 3 | [Real Estate App](https://github.com/HeySreelal/VintageRealEstateUI) | Vintage Real Estate App, buy your dream home! |
 
 
 ## More coming on the way! 🚀

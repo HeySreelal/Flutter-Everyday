@@ -10,14 +10,14 @@ Keep in mind that you'll have to install [Flutter](https://flutter.dev/) first.
 
 # 📚 Projects
 
-| Day | Project | Description |
-| --- | --- | --- |
-| 1 | [Calculator App Design](https://github.com/HeySreelal/CalculatorUI) | A simple calculator app with a dark theme. |
-| 2 | [Balisia App](https://github.com/HeySreelal/balisia) | A beautiful & efficient trip / travel booking app! |
-| 3 | [Real Estate App](https://github.com/HeySreelal/VintageRealEstateUI) | Vintage Real Estate App, buy your dream home! |
+| Day | Project | Description | Designer |
+| --- | --- | --- | --- |
+| 1 | [Calculator App Design](https://github.com/HeySreelal/CalculatorUI) | A simple calculator app with a dark theme. | [@juliejamolo](https://www.instagram.com/p/CcFMbBHPb8T/) |
+| 2 | [Balisia App](https://github.com/HeySreelal/balisia) | A beautiful & efficient trip / travel booking app! | [@basit.designs](https://www.instagram.com/basit.designs/)|
+| 3 | [Real Estate App](https://github.com/HeySreelal/VintageRealEstateUI) | Vintage Real Estate App, buy your dream home! |  [@uk_designer7970](https://www.instagram.com/uk_designer7970/) |
+| 4 | [Shoe Store UI](https://github.com/HeySreelal/ShoeStore-UI) | E-commerce app for shoe store. |  [@byrktrdesign](https://www.instagram.com/byrktrdesign/). |
 
-
-## More coming on the way! 🚀
+### More coming on the way! 🚀
 
 # 🌎 Support 
 I'm so glad that I created this! If this repo helped you in anyways, I'd for sure be the happiest person in this world. I do this for a passion. Consider showing support by following or starring the repo! ⭐️

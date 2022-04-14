@@ -18,6 +18,7 @@ Keep in mind that you'll have to install [Flutter](https://flutter.dev/) first.
 | 4 | [Shoe Store UI](https://github.com/HeySreelal/ShoeStore-UI) | E-commerce app for shoe store. |  [@byrktrdesign](https://www.instagram.com/byrktrdesign/) |
 | 5 | [ Travel App ](https://github.com/HeySreelal/Travel-App-UI) | Travel App UI 🦄. |[@sonali.ui](https://www.instagram.com/sonali.ui/) |
 | 6 | [ Calling Interface ](https://github.com/HeySreelal/Calling-UI) | Calling Interface concept| [Vishnu Ko](https://www.instagram.com/vishnukoux/) |
+| 7 | [ Roller Skating Rental ](https://github.com/HeySreelal/Roller-Skating-UI) | Roller Skating Rental or Buying App UI| [Dhara Galoriya](https://www.instagram.com/_creativedesign36) |
 
 ### More coming on the way! 🚀
 
